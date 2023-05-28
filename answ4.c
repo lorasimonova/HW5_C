@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void reduce_fraction(int *a, int *b) {
+void reduce_fraction(int *a, int *b) { 
     int chislit = *a;//объявляем и инициал. переменную chislit со значением, на которое указывает указатель a
     int znamin = *b;//объявляем и иниц переменную znamin со значением, на которое указывает указатель b
     int nod; //объявляем переменную nod для хранения наибольшего общего делителя
