@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int N, M;
+    int N, M; 
     scanf("%d %d", &N, &M); //считываем две переменные,отвечающ за кол-во строк и столбцов матрицы
     int matrix[N][M];
 
