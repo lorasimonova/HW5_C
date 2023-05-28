@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 
 int abs_arr(int *arr, int n) { //опред функции abs_arr, которая принимает указатель на массив arr и его размер n
     int zam = 0;
